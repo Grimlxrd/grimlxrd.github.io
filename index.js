@@ -1,4 +1,4 @@
 window.onload = function() {
-  const date = new Date().getTime();
+  const date = new Date().getDate();
   document.querySelector(".time").innerHTML = date;
 }
