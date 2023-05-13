@@ -2,7 +2,7 @@
 window.onload = function()
 {
     fetchHTML();
-}
+};
 
 async function fetchHTML()
 {
